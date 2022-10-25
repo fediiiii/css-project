@@ -1,0 +1,27 @@
+body {
+    margin-inline: 7% !important;
+    margin-top: 8% !important;
+}
+
+
+section.cards {
+    margin-inline: 12%;
+}
+section.cards .card {
+    padding: 10px;
+    height: 320px;
+} 
+section.cards .card .container {
+    border-radius: 10px;
+    padding: 2em 2em 0;
+}
+
+section.cards .card-1 .container {
+    background-color: #00ccb1;
+}
+section.cards .card-3 .container {
+    background-color: #1b2734;
+}
+section.cards .card-2 .container {
+    background-color: #3d83df;
+}
